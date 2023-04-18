@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main () {
+int a, b, c
+
+printf("Digite seu primeiro número inteiro: ");
+scanf("%d", &a);
+
+printf("Digite seu segundo número inteiro: ");
+scanf("%d", &b);
+
+printf("Digite seu terceiro número inteiro: ");
+scanf("%d", &c);
+
+printf("Você digitou os números %d, a, b, c");
+printf(A soma dos números esolhidos é: %d, a+b+c);
+return 0;
+}
