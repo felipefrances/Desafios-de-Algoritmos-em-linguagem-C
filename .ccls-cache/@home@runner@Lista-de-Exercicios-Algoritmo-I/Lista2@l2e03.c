@@ -1,4 +1,4 @@
-//  Escreva um algoritmo estruturado que gere os números de 1000 a 1999 e escreva somente os números que são
+// Escreva um algoritmo estruturado que gere os números de 1000 a 1999 e escreva somente os números que são
 // divisíveis por 11 e cujo resto é 5.
 
 // #include <stdio.h>
