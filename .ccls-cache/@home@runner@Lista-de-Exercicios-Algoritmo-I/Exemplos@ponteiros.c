@@ -23,7 +23,5 @@
 //   //imprime o endereço da variável x
 //   printf("%i\n", ponteiro);
   
-//   getchar ();
-
 //   return 0;
 // }
