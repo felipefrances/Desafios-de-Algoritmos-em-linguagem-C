@@ -10,8 +10,11 @@
 // struct hor {
 //   int hora;
 //   int minuto;
-//   int segundo;
+//   segundo;
 // } horario;
+
+
+
 
 // struct dat {
 //   int dia;
